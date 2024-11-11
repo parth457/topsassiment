@@ -1,0 +1,127 @@
+@media (max-width:600px) {
+    .parent-1{
+        height: 140px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .child-1{
+        height: 70px;
+        width: 100%;
+        background-color: black;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-size: 35px;
+    }
+    .child-2{
+        height: 70px;
+        width: 100%;
+        background-color: brown;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-size: 35px;
+    }
+    .parent-2{
+        height: 200px;
+        width: 100%;
+    }
+    .child-3{
+        height: 200px;
+        width: 100%;
+        background-color: royalblue;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-size: 35px;
+    }
+}
+@media (max-width:375px) {
+    .parent-1{
+        height: 100px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .child-1{
+        height: 50px;
+        width: 100%;
+        background-color: black;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-size: 35px;
+    }
+    .child-2{
+        height: 50px;
+        width: 100%;
+        background-color: brown;
+        display: flex;
+        align-items: c  nter;
+        justify-content: center;
+        color: #fff;
+        font-size: 35px;
+    }
+    .parent-2{
+        height: 100px;
+        width: 100%;
+        
+    }
+    .child-3{
+        height: 100px;
+        width: 100%;
+        background-color: royalblue;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-size: 35px;
+    }
+    
+    .parent-3{
+        height: 200px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .child-4{
+        height: 100px;
+        width: 100%;
+        background-color: grey;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-size: 35px;
+    }
+    .div{
+        height: 100px;
+        width: 100%;
+    }
+    .child-5{
+        height: 50px;
+        width: 100%;
+        background-color: #C0E3E7;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-size: 35px;
+    }
+    .child-6{
+        height: 50px;
+        width: 100%;
+        background-color: #4EBC97;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-size: 35px;
+    }
+}

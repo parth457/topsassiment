@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.maindiv{
+    height: 500px;
+    width: 100%;
+}
+.main{
+    height: 200px;
+    width: 100%;
+}
+.main-2{
+   position: relative;
+}
+.box-1{
+    height: 70px;
+    width: 70px;
+    background-color: rgba(165, 42, 42, 0.26);
+    border-radius: 50%;
+    position: absolute;
+    top: 160px;
+    left: 100px;
+}
+.box-1:hover{
+    background-color: brown;
+}
+
+.box-1 i:hover{
+    color: yellow;
+}
+
+.box-2{
+    height: 70px;
+    width: 70px;
+    background-color: rgba(165, 42, 42, 0.26);
+    border-radius: 50%;
+    position: absolute;
+    top: 180px;
+    left: 310px;
+}
+.box-2:hover{
+    background-color: brown;
+}
+
+.box-2 i:hover{
+    color: yellow;
+  }
+
+.box-3{
+    height: 70px;
+    width: 70px;
+    background-color: rgba(165, 42, 42, 0.26);
+    border-radius: 50%;
+    position: absolute;
+    top: 160px;
+    left: 530px;
+}
+.box-3:hover{
+    background-color: brown;
+}
+
+.box-3 i:hover{
+    color: yellow;
+  }
+
+.box-4{
+    height: 70px;
+    width: 70px;
+    background-color: rgba(165, 42, 42, 0.26);
+    border-radius: 50%;
+    position: absolute;
+    top: 90px;
+    left: 750px;
+}
+.box-4:hover{
+    background-color: brown;
+}
+.box-4 i:hover{
+    color: yellow;
+  }
+.box-5{
+    height: 70px;
+    width: 70px;
+    background-color: rgba(165, 42, 42, 0.26);
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 950px;
+}
+.box-5:hover{
+    background-color: brown;
+}
+.box-5 i:hover{
+  color: yellow;
+}
+.box-1 i{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    color:#fff;
+    font-size: 25px;
+}
+.box-2 i{
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    font-size: 30px;
+    color: #fff;
+}
+.box-3 i{
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    font-size: 30px;
+    color: #fff;
+}
+
+
+.box-4 i{
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    font-size: 30px;
+    color: #fff;
+}
+.box-5 i{
+    position: absolute;
+    left: 23px;
+    top: 18px;
+    font-size: 30px;
+    color: #fff;
+}
+.main h1{
+    text-align: center;
+    padding-top: 60px;
+}
+
+.p{
+    display: flex;
+    gap: 10px;
+    margin-left: 530px;
+    margin-top: 10px;
+
+}
+
+#p-1{
+    border-bottom: 2px solid black;
+    width: 100px;
+}
+
+#p-2{
+    border-bottom: 2px solid black;
+    width: 100px;
+}
+.main h6{
+    text-align: center;
+    padding-top: 10px;
+}

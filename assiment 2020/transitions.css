@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.box{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color: royalblue;
+    border-radius: 50%;
+    top: 220px;
+}
+.box2{
+    height: 115px;
+    width: 115px;
+    position: absolute;
+    background-color: rgba(65, 105, 225, 0.281);
+    border-radius: 50%;
+    left: 50px;
+    top: 210px;
+    
+}
+.box3{
+    height: 140px;
+    width: 140px;
+    position: absolute;
+    background-color: rgba(65, 105, 225, 0.281);
+    border-radius: 50%;
+    left: 100px;
+    top: 200px;
+}
+.box4{
+    height: 190px;
+    width: 190px;
+    position: absolute;
+    background-color: rgba(65, 105, 225, 0.281);
+    border-radius: 50%;
+    left:175px ;
+    top: 180px;
+}
+.box5{
+    height: 240px;
+    width: 240px;
+    position: absolute;
+    background-color: rgba(65, 105, 225, 0.281);
+    border-radius: 50%;
+    left: 250px;
+    top: 150px;
+}
+.box6{
+    height: 290px;
+    width: 290px;
+    position: absolute;
+    background-color: rgba(65, 105, 225, 0.281);
+    border-radius: 50%;
+    left: 375px;
+    top: 120px;
+}
+.box7{
+    height: 340px;
+    width: 340px;
+    position: absolute;
+    background-color: rgba(65, 105, 225, 0.281);
+    border-radius: 50%;
+    left: 500px;
+    top: 100px;
+}
+.box8{
+    height: 390px;
+    width: 390px;
+    position: absolute;
+    background-color: rgba(65, 105, 225, 0.281);
+    border-radius: 50%;
+    left: 675px;
+    top: 80px;
+}
+.box9{
+    height: 430px;
+    width: 430px;
+    position: absolute;
+    background-color: royalblue;
+    border-radius: 50%;
+    left: 850px;
+    top: 50px;
+}
